@@ -177,5 +177,4 @@ st.text('Note: This article contains an affiliate link. This means that if you c
 st.text('However, the recommended resource is experienced by me and helped me in my data science career journey.')
 
 st.subheader('Before you go…')
-st.text(
-    'If you liked this article and want to stay tuned with more exciting articles on Python & Data Science — do consider becoming a medium member by clicking here https://pranjalai.medium.com/membership. Please do consider signing up using my referral link. In this way, the portion of the membership fee goes to me, which motivates me to write more exciting stuff on Python and Data Science. Also, feel free to subscribe to my free newsletter: Pranjal’s Newsletter.')'
+st.text('If you liked this article and want to stay tuned with more exciting articles on Python & Data Science — do consider becoming a medium member by clicking here https://pranjalai.medium.com/membership. Please do consider signing up using my referral link. In this way, the portion of the membership fee goes to me, which motivates me to write more exciting stuff on Python and Data Science. Also, feel free to subscribe to my free newsletter: Pranjal’s Newsletter.')
